@@ -14,9 +14,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sn1wfy&" alt="sn1wfy" /></p>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sn1wfy&show_icons=true&locale=en" alt="sn1wfy" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sn1wfy&layout=compact)
