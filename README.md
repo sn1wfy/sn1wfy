@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I am Martin.</h1>
-<h3 align="center">The 14 year old developer.</h3>
+<h3 align="center">The 15 year old developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sn1wfy&label=Profile%20views&color=0e75b6&style=flat" alt="sn1wfy" /> </p>
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="https://instagram.com/martin._.nikolov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martin._.nikolov" height="30" width="40" /></a>
+<a href="https://instagram.com/sn1wfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martin._.nikolov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
