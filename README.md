@@ -17,4 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sn1wfy&show_icons=true&locale=en" alt="sn1wfy" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sn1wfy&layout=compact)
-^ thats not true, its just that most of my repositories are private, therefore that becomes a nonesense :) ^
+
+<p>^ thats not true, its just that most of my repositories are private, therefore that becomes a nonesense :) ^</p>
