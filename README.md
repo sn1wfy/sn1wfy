@@ -27,7 +27,7 @@ apply on boot, and deploy scripts that refuse to run when the server is not read
 - 🛒 Built **TrufflePoint** — a bilingual marketplace with Stripe payments, S3 media, PDF contracts and Bulgarian tax export
 - 🛡️ And **BackMaster** — a C++ host-security daemon for Linux: process, socket, DNS and kernel-log monitoring with nftables enforcement
 - 🌱 Going deeper on distributed state, GDPR-grade data handling, and self-hosted infrastructure
-- 🗣️ Bulgarian (native) · English
+- 🗣️ Bulgarian (native) · English · German(Current Level at early A2)
 - ⚡ I self-host almost everything I run
 
 <!-- ═════════════ END EDITABLE SECTION ══════════════ -->
