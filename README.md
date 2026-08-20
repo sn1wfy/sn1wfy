@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sn1wfy.net"><img src="https://img.shields.io/badge/sn1wfy.net-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://omnexis.net"><img src="https://img.shields.io/badge/omnexis.net-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <img src="https://img.shields.io/badge/Bulgaria-00966E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bulgaria">
   <img src="https://img.shields.io/badge/Focus-Backend%20%2F%20Systems-6E4AFF?style=for-the-badge" alt="Focus">
   <img src="https://komarev.com/ghpvc/?username=sn1wfy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views">
